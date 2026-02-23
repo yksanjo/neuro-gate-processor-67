@@ -1,5 +1,12 @@
 # neuro-gate-processor-67
 
+Production-grade project scaffold focused on reliability, maintainability, and fast onboarding.
+
+[![CI](https://img.shields.io/github/actions/workflow/status/yksanjo/neuro-gate-processor-67/ci.yml?branch=main&label=ci)](https://github.com/yksanjo/neuro-gate-processor-67/actions)
+![License](https://img.shields.io/github/license/yksanjo/neuro-gate-processor-67)
+![Last Commit](https://img.shields.io/github/last-commit/yksanjo/neuro-gate-processor-67)
+![Repo Size](https://img.shields.io/github/repo-size/yksanjo/neuro-gate-processor-67)
+
 ## Detailed Description
 
 neuro-gate-processor-67 is maintained as an industry-grade software project with production-ready engineering practices.  
